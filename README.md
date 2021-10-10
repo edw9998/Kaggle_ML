@@ -1,1 +1,1 @@
-# Kaggle_ML_Course
+# Kaggle_ML
